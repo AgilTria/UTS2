@@ -92,10 +92,10 @@ namespace Program
         private string NIM;
         public void BioDataMahasiswa()
         {
-            this.nama = "DESKA DANU PERMADI";
-            this.NIM = "21.11.4109";
+            this.nama = "AGIL TRIA NUGRAHA";
+            this.NIM = "21.11.4282";
             this.gender = "LAKI LAKI";
-            this.Biodata = "TEMPAT, TANGGAL LAHIR : PALEMBANG - SUMATERA SELATAN , 26 DESEMBER 2002.\n          ALAMAT                : LIMAN SARI, OKU TIMUR, SUMATERA SELATAN.\n          PENDIDIKAN TERAKHIR = MAHASISWA DI UNIVERSITAS AMIKOM YOGYAKARTA";
+            this.Biodata = "TEMPAT, TANGGAL LAHIR : PALEMBANG - SUMATERA SELATAN , 06 OKTOBER 2003.\n          ALAMAT                : WAY HALOM, OKU TIMUR, SUMATERA SELATAN.\n          PENDIDIKAN TERAKHIR = MAHASISWA DI UNIVERSITAS AMIKOM YOGYAKARTA";
         }
 
         public override string ToString()
